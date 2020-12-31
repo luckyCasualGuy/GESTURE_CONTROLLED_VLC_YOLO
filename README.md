@@ -16,6 +16,11 @@ Make sure you have all required modules
 >>> pip install python-vlc
 
 ## Also make sure you have appropriate vlc installed on your PC/ PI
+
+# just do for PC:
+>>> python main_pc.py
+
+# Pi logic in my pi will add it later :P
 ```
 
 Make sure you have good working camera and proper light conditions and you are good to go :)  
