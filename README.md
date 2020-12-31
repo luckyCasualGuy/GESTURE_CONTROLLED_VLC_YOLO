@@ -22,7 +22,7 @@ Make sure you have good working camera and proper light conditions and you are g
 
 ### NOTE:
 Model used is just prototype and it works just fine for me...  
-If you want better model than mine than train it yourself using my training scripts inside `Training dir`  
+If you want better model than mine than train it yourself using my training scripts inside here `https://github.com/luckyCasualGuy/Scripts.git` look inside OD folder...  
 ( Make sure you have 400 + images of each gesture you want to detect In fact any object more information added in that folder... )  
 
 I use tflite version becauze this script was made to run in **raspberry pi**.  
